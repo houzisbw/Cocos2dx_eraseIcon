@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+
+  <dict>
+
+
+    <key>target_score</key>
+    <string>目标:</string>
+
+    
+    <key>evernote_1</key>
+    <string>印象笔记logo是一只大象，这是因为大象永远不会忘记事情</string>
+
+    <key>evernote_2</key>
+    <string>印象笔记总部位于全球最具创造力的加州山景城</string>
+
+    <key>evernote_3</key>
+    <string>印象笔记是一款多功能笔记类应用,公司估值达10亿美元</string>
+
+    <key>evernote_4</key>
+    <string>2015年1月8日,云笔记开发商evernote进行了历史上首次裁员</string>
+
+
+    
+    <key>forrst_1</key>
+    <string>forrst是一个收集建设性设计反馈的网络社区</string>
+
+    <key>forrst_2</key>
+    <string>2014年forrst被关闭，原因是很难让用户产生深度交流</string>
+
+    <key>forrst_3</key>
+    <string>2014年末forrst成功转型为Tavern社区</string>
+
+    <key>forrst_4</key>
+    <string>forrst创始人叫Zurb,一个互联网狂热者</string>
+
+
+    
+    <key>google_1</key>
+    <string>Google+是一个SNS社交网站,你可以通过你的Google账户登录</string>
+
+    <key>google_2</key>
+    <string>在这个社交网站上你可以和不同兴趣的好友分享好玩的东西</string>
+
+    <key>google_3</key>
+    <string>Google+开放的24天，便到达了2000万人次使用</string>
+
+    <key>google_4</key>
+    <string>中国政府于2011年9月20日起宣布永久性屏蔽google+</string>
+
+    
+
+    <key>instagram_1</key>
+    <string>Instagram这个名字源自于Instamatic，是柯达一款相机的名字</string>
+
+    <key>instagram_2</key>
+    <string>2012年1月，美国总统奥巴马使用Instagram</string>
+
+    <key>instagram_3</key>
+    <string>Instagram于2012年被facebook以7.19亿美元收购</string>
+
+    <key>instagram_4</key>
+    <string>Instagram是一款移动应用，能够分享拍摄的照片和视频</string>
+
+
+    <key>skype_1</key>
+    <string>Skype是一款即时通讯软件，其具备IM所需的功能，比如视频聊天</string>
+
+    <key>skype_2</key>
+    <string>Skype拥有超过6.63亿的注册用户，最高同时在线超过3000万</string>
+
+    <key>skype_3</key>
+    <string>Skype之间的语音视频通话免费；支持25方语音通话和10万多人视频通话</string>
+
+    <key>skype_4</key>
+    <string>2010年Skype通话时长已占全球国际通话总时长的25%</string>
+
+
+
+    <key>vimeo_1</key>
+    <string>Vimeo是一个高清视频播客网站</string>
+
+    <key>vimeo_2</key>
+    <string>Vimeo允许上传1280X700的高清视频，上传后Vimeo会自动转码为高清视频</string>
+
+    <key>vimeo_3</key>
+    <string>Vimeo允许每月上传500MB的高清或普通视频，用户可以定制视频的显示尺寸</string>
+
+    <key>vimeo_4</key>
+    <string>Vimeo支持的影片格式相当多，包括asf.asx.avi等</string>
+
+
+
+    <key>rss_1</key>
+    <string>RSS(Really Simple Syndication)是一种描述和同步网站内容的格式</string>
+
+    <key>rss_2</key>
+    <string>RSS目前广泛用于网上新闻频道，blog和wiki</string>
+
+    <key>rss_3</key>
+    <string>1997年Dave Winer开发出scriptingNews,RSS由此诞生</string>
+
+    <key>rss_4</key>
+    <string>RSS：简易信息聚合。是使用最广泛的XML应用</string>
+
+
+
+    <key>bloggr_1</key>
+    <string>Blogger是Google旗下一家大型的博客服务网站</string>
+
+    <key>bloggr_2</key>
+    <string>Blogger的成长速度惊人，曾创下单月过百万注册用户的纪录</string>
+
+    <key>bloggr_3</key>
+    <string>Blogger已在中国内地被永久性屏蔽</string>
+
+    <key>bloggr_4</key>
+    <string>由旧金山一家名为 Pyra Labs 的小型公司于1999年8月创办</string>
+
+
+    
+    <key>deviantart_1</key>
+    <string>deviantART是一个展示与分享各类艺术创作的大型国际性社群网站</string>
+
+    <key>deviantart_2</key>
+    <string>deviantART的人气非常畅旺，平均每日约有150万人次造访</string>
+
+    <key>deviantart_3</key>
+    <string>deviantART上的艺术作品种类五花八门，可分为摄影、传统艺术等</string>
+
+    <key>deviantart_4</key>
+    <string>deviantART目标是提供一个为任何艺术家展示和讨论他们作品的地方</string>
+
+
+
+    <key>digg_1</key>
+    <string>掘客类网站(Digg)其实是一个文章投票评论站点</string>
+
+    <key>digg_2</key>
+    <string>它的独特在于它没有职业网站编辑，编辑全部取决于用户</string>
+
+    <key>digg_3</key>
+    <string>用户可以随意提交文章，然后由阅读者来判断该文章是否有用</string>
+
+    <key>digg_4</key>
+    <string>Digg只有12名真正的员工和大约75台服务器</string>
+
+
+
+
+    <key>dribbble_1</key>
+    <string>Dribbble 的口号是，你正在创作什么？</string>
+
+    <key>dribbble_2</key>
+    <string>你没看错，dribbble单词拼写是3个b！</string>
+
+    <key>dribbble_3</key>
+    <string>Dribbble是一个面向创作家的作品交流网站</string>
+
+    <key>dribbble_4</key>
+    <string>Dribbble的盈利模式是通过提供付费账户服务盈利</string>
+
+
+
+    <key>facebook_1</key>
+    <string>Facebook（脸谱）是创办于美国的一个社交网络服务网站</string>
+
+    <key>facebook_2</key>
+    <string>截至2013年11月每天上传约3.5亿张照片</string>
+
+    <key>facebook_3</key>
+    <string>《福布斯》杂志保守估计，创始人马克·扎克伯格拥有135亿美元身价</string>
+
+    <key>facebook_4</key>
+    <string>由于相关政策法律的原因中国国内用户无法正常登陆Facebook</string>
+
+
+
+    <key>flickr_1</key>
+    <string>Flickr，雅虎旗下图片分享网站</string>
+
+    <key>flickr_2</key>
+    <string>Flickr 是由加拿大Ludicorp公司所开发设计</string>
+
+    <key>flickr_3</key>
+    <string>重要特点就是基于社会网络的人际关系的拓展与内容的组织</string>
+
+    <key>flickr_4</key>
+    <string>2013年5月，Flick进行了大幅改版，彻底改变了外观和感觉</string>
+
+    
+    
+
+    <key>linkedin_1</key>
+    <string>LinkedIn(领英)全球最大的职业社交网站</string>
+
+    <key>linkedin_2</key>
+    <string>每个《财富》世界500强公司均有高管加入LinkedIn</string>
+
+    <key>linkedin_3</key>
+    <string>2002年，Reid Hoffman在自家客厅里与合作伙伴共同创建了领英</string>
+
+    <key>linkedin_4</key>
+    <string>LinkedIn的使命是连接全球职场人士，使他们事半功倍，发挥所长</string>
+
+
+
+    <key>pinterest_1</key>
+    <string>Pinterest堪称图片版的Twitter，网民可以将感兴趣的图片保存</string>
+
+    <key>pinterest_2</key>
+    <string>截至2013年9月，该软件已进入全球最热门社交网站前十名</string>
+
+    <key>pinterest_3</key>
+    <string>2011年8月16日，Pinterest入选美国时代杂志“2011年50个最好的网站”</string>
+
+    <key>pinterest_4</key>
+    <string>Pinterest采用的是瀑布流的形式展现图片内容，无需用户翻页</string>
+
+
+
+    <key>share_1</key>
+    <string>玩手机的都知道,分享图标啦</string>
+
+    <key>share_2</key>
+    <string>玩手机的都知道，分享图标啦</string>
+
+    <key>share_3</key>
+    <string>玩手机的都知道，分享图标啦</string>
+
+    <key>share_4</key>
+    <string>玩手机的都知道，分享图标啦</string>
+
+
+    
+    <key>stumble_1</key>
+    <string>StumbleUpon可以说是一个从浏览器的工具条插件发展起来的网站</string>
+
+    <key>stumble_2</key>
+    <string>StumbleUpon根据你的个人偏好，把被最多人所推荐的网站推荐给你</string>
+
+    <key>stumble_3</key>
+    <string>StumbleUpon最好的功能是每一次给你推荐出来的网页都是符合你的胃口的</string>
+
+    <key>stumble_4</key>
+    <string>不过唯一遗憾的是,StumbleUpon对中文支持不好,各种乱码</string>
+
+
+
+    <key>tumblr_1</key>
+    <string>Tumblr（中文名：汤博乐）成立于2007年，是目前全球最大的轻博客网站</string>
+
+    <key>tumblr_2</key>
+    <string>Tumblr每月能够吸引1500万独立访问用户数和6100万页面浏览量</string>
+
+    <key>tumblr_3</key>
+    <string>Tumblr允许用户发表文字，照片、引用、链接、聊天、音乐和视频的轻量级博客</string>
+
+    <key>tumblr_4</key>
+    <string>2013年5月15日，网友发现可以正常访问了！喜大普奔</string>
+
+
+
+
+    <key>twitter_1</key>
+    <string>Twitter是一个广受欢迎的社交网络及微博客服务的网站</string>
+
+    <key>twitter_2</key>
+    <string>Twitter是全球互联网上访问量最大的十个网站之一</string>
+
+    <key>twitter_3</key>
+    <string>2009年起，中国大陆地区无法直接访问Twitter官方网站</string>
+
+    <key>twitter_4</key>
+    <string>Twitter目前市值接近400亿美元</string>
+
+
+
+    <key>youtube_1</key>
+    <string>YouTube是世界上最大的视频网站，早期公司总部位于加利福尼亚州的圣布鲁诺</string>
+
+    <key>youtube_2</key>
+    <string>2015年2月，央视首次把春晚推送到YouTube等境外网站</string>
+
+    <key>youtube_3</key>
+    <string>公司于2005年2月15日注册，由华裔（台湾）美籍华人陈士骏等人创立</string>
+
+    <key>youtube_4</key>
+    <string>想在中国上Youtube，呵呵</string>
+
+    
+    
+    
+
+    <key>statistic</key>
+    <string>数据统计</string>
+    
+    <key>lefticon</key>
+    <string>剩余图标:</string>
+
+    <key>leftbonus</key>
+    <string>剩余奖励:</string>
+
+    <key>singlerecord</key>
+    <string>单次纪录:</string>
+
+    <key>mosterase</key>
+    <string>至多消除:</string>
+
+    <key>time</key>
+    <string>总计耗时:</string>
+
+    <key>fourkill</key>
+    <string>四杀:</string>
+
+    <key>fivekill</key>
+    <string>五杀:</string>
+
+    <key>sixkill</key>
+    <string>六杀:</string>
+
+    <key>sevenkill</key>
+    <string>七杀:</string>
+
+    <key>legendary</key>
+    <string>超神:</string>
+
+    
+
+    <key>nextLevel</key>
+    <string>下一关</string>
+    
+    <key>gamePause</key>
+    <string>游戏暂停</string>
+    
+    <key>continue</key>
+    <string>继续</string>
+    
+    <key>mainMenu</key>
+    <string>保存退出</string>
+    
+    <key>restartGame</key>
+    <string>想要重新挑战此关吗？</string>
+    
+     <key>yes</key>
+    <string>是</string>
+    
+     <key>no</key>
+    <string>否</string>
+     
+    <key>welcome</key>
+    <string>欢迎来到</string>
+    
+    
+    <key>beijing</key>
+    <string>北京故宫</string>
+    
+    <key>tokyo</key>
+    <string>东京富士山</string>
+    
+     <key>singnapore</key>
+    <string>新加坡狮身像</string>
+    
+     <key>hawaii</key>
+    <string>夏威夷威基基海滩</string>
+    
+     <key>canada</key>
+    <string>加拿大班芙</string>
+    
+     <key>newyork</key>
+    <string>纽约时代广场</string>
+    
+     <key>sanfan</key>
+    <string>旧金山金门大桥</string>
+    
+     <key>rio</key>
+    <string>里约基督像</string>
+    
+     <key>london</key>
+    <string>伦敦吊桥</string>
+    
+     <key>germany</key>
+    <string>德国新天鹅堡</string>
+    
+     <key>swiss</key>
+    <string>瑞士乡村</string>
+    
+     <key>dutch</key>
+    <string>荷兰风车村</string>
+    
+     <key>greece</key>
+    <string>希腊圣托里尼</string>
+    
+     <key>moscow</key>
+    <string>莫斯科红场</string>
+    
+     <key>paris</key>
+    <string>巴黎艾菲尔铁塔</string>
+    
+     <key>rome</key>
+    <string>罗马市政厅</string>
+    
+     <key>africa</key>
+    <string>中非大草原</string>
+    
+     <key>dubai</key>
+    <string>迪拜帆船酒店</string>
+    
+     <key>maldive</key>
+    <string>天堂马尔代夫</string>
+    
+     <key>sydeny</key>
+    <string>悉尼歌剧院</string>
+
+
+
+
+    <key>description</key>
+    <string>点击下列5个ICON里的任意一个来替换游戏里任何一个不同的ICON</string>
+
+    <key>shutdown</key>
+    <string>关闭</string>
+
+    <key>descriptionBomb</key>
+    <string>点击游戏中ICON发射导弹击碎其所在行列所有ICON，瞬间爆炸，送他升天</string>
+
+    <key>ok</key>
+    <string>确定</string>
+
+    <key>notenough</key>
+    <string>道具不足</string>
+
+
+
+    <key>new</key>
+    <string>新的征途</string>
+    <key>option</key>
+    <string>小憩驿站</string>
+    <key>quit</key>
+    <string>旅行足迹</string>
+
+
+
+    <key>global</key>
+    <string>环球旅行</string>
+    <key>iq</key>
+    <string>赶尽杀绝</string>
+    <key>des</key>
+    <string>Hi~ 我叫秋小萌,这里有2种模式可以选择哦！祝玩的开心~</string>
+    
+    <key>label1</key>
+    <string>环球旅行：20个不同国家的奇幻之旅</string>
+    <key>label2</key>
+    <string>赶尽杀绝：你能全部消灭这些ICON吗</string>
+
+
+    <key>isContinue1</key>
+    <string>上次玩到  Level</string>
+    <key>isContinue2</key>
+    <string>继续吗? </string>
+
+
+    <key>htp1</key>
+    <string>啊哈，我们又见面了，小萌我来告诉你游戏怎么玩吧！点下面继续~</string>
+    <key>htp2</key>
+    <string>点这里可以回到主菜单和重新开始哦！</string>
+    <key>htp3</key>
+    <string>这里是当前关卡的目标分数，只有达到了这个分数才能继续旅程哦！</string>
+    <key>htp4</key>
+    <string>福利：这是基因突变道具！不够的话可以去商店兑换！</string>
+    <key>htp5</key>
+    <string>福利：这是轨道炮道具！不够的话可以去商店兑换！</string>
+    <key>htp6</key>
+    <string>这里是当前关卡数，一共有20关，在旅行足迹里可以查看你的环球足迹！</string>
+    <key>htp7</key>
+    <string>这里是当前得分，英雄去超越自己吧！    Heroes,go beyond!</string>
+    <key>htp8</key>
+    <string>现在我来介绍具体玩法吧！点击相邻2个或2个以上的方块就会消除，剩下5个或以下会有额外奖励</string>
+    <key>htp9</key>
+    <string>这一栏是介绍ICON相关知识的，毕竟每一个ICON都代表着一个社交平台呢！</string>
+    <key>htp10</key>
+    <string>右上角嘛，是我的姬友22娘，绅士们请尽情地调戏她吧！可以拖动和点击她！</string>
+    <key>htp11</key>
+    <string>好了，不多说了，最后一关有福利哦！开启你的环球之旅吧！</string>
+    
+    
+    <key>htp12</key>
+    <string>上路出发</string>
+
+    <key>achieve1</key>
+    <string>查看游戏纪录和信息以及兑换道具</string>
+    <key>achieve2</key>
+    <string>个人纪录</string>
+    <key>achieve3</key>
+    <string>返回</string>
+    <key>achieve4</key>
+    <string>历史最高分:</string>
+    <key>achieve5</key>
+    <string>单次至多消去:</string>
+    <key>achieve6</key>
+    <string>游戏信息</string>
+    <key>achieve7</key>
+    <string>开发周期： 5    Weeks</string>
+    <key>achieve8</key>
+    <string>代码数目： 6000 lines</string>
+    <key>achieve9</key>
+    <string>制作成本： 20元(买的素材)</string>
+    <key>achieve10</key>
+    <string>游戏引擎:  cocos2dx</string>
+    <key>achieve11</key>
+    <string>道具兑换</string>
+    <key>achieve12</key>
+    <string>3个超神数(一次消去8个或以上)可以兑换一个道具哦！</string>
+    <key>achieve13</key>
+    <string>超神次数：</string>
+    
+    <key>achieve14</key>  
+    <string>是否换取该道具？</string>
+    <key>achieve15</key>
+    <string>是</string>
+    <key>achieve16</key>
+    <string>否</string>
+
+    <key>welcomeTitle1</key>
+    <string>萌妹</string>
+    <key>welcomeTitle2</key>
+    <string>陪 你 消</string>
+    
+
+    
+    <key>22_1</key>
+    <string>22娘dayo！！       Ps:绅士们，打到20关后可以看到我的本子哦！</string>
+
+    <key>22_2</key>
+    <string>把你bilibili掉！！        Ps:33娘是我的好妹妹！ </string>
+
+    <key>22_3</key>
+    <string>好痒好痒不要戳啦！！        Ps:如果道具不够了，可以去道具中心换取道具哦</string>
+
+    <key>22_4</key>
+    <string>我可是很聪明哒！！       Ps：最后剩下方块少于5个会有奖励哦</string>
+
+    <key>22_5</key>
+    <string>不要摸我，会变笨蛋哒！！       Ps：不要过度使用导弹，因为加的分真的很少，少</string>
+
+    <key>22_6</key>
+    <string>弹幕狂欢！！       Ps：如果你很久不动，我会发弹幕诅咒你！！</string>
+
+    <key>22_7</key>
+    <string>弹幕太薄了啦！！       Ps：请不要随意拖动我，人家也会累哒！</string>
+
+    <key>22_8</key>
+    <string>23232！！！       Ps：我就是可爱的22娘！！</string>
+
+    <key>22_9</key>
+    <string>我果然是个天才哇哈哈哈哈！！       Ps：下面给你吃！！</string>
+
+
+    <key>mainMenu</key>
+    <string>主菜单</string>
+
+    <key>saveExit</key>
+    <string>保存退出</string>
+    
+    <key>web</key>
+    <string>你已经全部通关啦！神秘网址:</string>
+
+
+
+
+    <key>map1</key>
+    <string>北京</string>
+    <key>map2</key>
+    <string>东京</string>
+    <key>map3</key>
+    <string>新加坡</string>
+    <key>map4</key>
+    <string>夏威夷</string>
+
+
+    <key>map5</key>
+    <string>班芙</string>
+    <key>map6</key>
+    <string>纽约</string>
+    <key>map7</key>
+    <string>旧金山</string>
+    <key>map8</key>
+    <string>里约</string>
+
+    <key>map9</key>
+    <string>伦敦</string>
+    <key>map10</key>
+    <string>德国</string>
+    <key>map11</key>
+    <string>瑞士</string>
+    <key>map12</key>
+    <string>荷兰</string>
+
+    <key>map13</key>
+    <string>希腊</string>
+    <key>map14</key>
+    <string>莫斯科</string>
+    <key>map15</key>
+    <string>巴黎</string>
+    <key>map16</key>
+    <string>罗马</string>
+
+    <key>map17</key>
+    <string>中非草原</string>
+    <key>map18</key>
+    <string>迪拜</string>
+    <key>map19</key>
+    <string>马尔代夫</string>
+    <key>map20</key>
+    <string>悉尼</string>
+    
+
+
+
+  </dict>
+</plist>
